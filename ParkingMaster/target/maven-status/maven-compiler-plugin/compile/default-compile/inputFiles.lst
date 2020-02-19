@@ -1,0 +1,9 @@
+D:\Projects\src\e-karting\src\main\java\com\ekarts\dao\KartDao.java
+D:\Projects\src\e-karting\src\main\java\com\ekarts\enums\KartTypes.java
+D:\Projects\src\e-karting\src\main\java\com\ekarts\dto\Client.java
+D:\Projects\src\e-karting\src\main\java\com\ekarts\dto\Kart.java
+D:\Projects\src\e-karting\src\main\java\com\ekarts\dao\ClientDao.java
+D:\Projects\src\e-karting\src\main\java\com\ekarts\servlet\KartController.java
+D:\Projects\src\e-karting\src\main\java\com\ekarts\servlet\json\ClientJsonServlet.java
+D:\Projects\src\e-karting\src\main\java\com\ekarts\dao\DBConnection.java
+D:\Projects\src\e-karting\src\main\java\com\ekarts\servlet\ClientController.java
